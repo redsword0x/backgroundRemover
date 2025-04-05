@@ -1,0 +1,10 @@
+Allocation :
+
+const API_KEY = 'put your api here. i removed mine. cause i bought that and has a limit';
+const API_ENDPOINT = 'https://api.remove.bg/v1.0/removebg';
+
+
+> Keep the model same.
+> change the const API_KEY ='' ( Put your API key inside the '' )
+
+theres some free API aswell. But the Paid API I used from : remove.bg
